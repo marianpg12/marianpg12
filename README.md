@@ -12,6 +12,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new places in Buenos Aires, discovering hidden coffee shops, and occasionally playing the guitar.
 
-[Feel free to add more sections or customize it further based on your preferences!]
-n fact: ...
+
 -->
