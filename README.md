@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp;&nbsp;&nbsp;&nbsp;**SysAdmin**: Currently managing Linux systems in the vibrant city of Buenos Aires. Also experienced with Mainframe OS systems.
   
-- 🌱 &nbsp;&nbsp;&nbsp;&nbsp;Always learning and expanding my skills in **Bash** and **Python** scripting.
+- 🌱 &nbsp;&nbsp;&nbsp;&nbsp;Always learning and expanding my skills in **Bash** and **Python** scripting. Started with GW-BASIC, now handling COBOL and REXX after 4 years on Mainframe OS.
   
 - 👯 &nbsp;&nbsp;&nbsp;&nbsp;Passionate about collaborating on open-source projects and **automating everyday tasks**.
   
